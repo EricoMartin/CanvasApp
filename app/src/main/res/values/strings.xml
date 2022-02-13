@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EdvoraCanvas</string>
+    <string name="canvas_description">Edvora Canvas is a simple drawing app
+        that uses the Android Canvas API.</string>
+</resources>
