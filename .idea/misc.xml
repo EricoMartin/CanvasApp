@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/ERICO/Documents/EdvoraCanvas/app/src/main/res/drawable/arrow.xml" value="0.25" />
+        <entry key="..\:/Users/ERICO/Documents/EdvoraCanvas/app/src/main/res/drawable/arrow_drawable.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ERICO/Documents/EdvoraCanvas/app/src/main/res/drawable/background_selector.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ERICO/Documents/EdvoraCanvas/app/src/main/res/drawable/black.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ERICO/Documents/EdvoraCanvas/app/src/main/res/drawable/blue.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ERICO/Documents/EdvoraCanvas/app/src/main/res/drawable/button_drawable.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ERICO/Documents/EdvoraCanvas/app/src/main/res/drawable/button_row_background.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ERICO/Documents/EdvoraCanvas/app/src/main/res/drawable/color_drawable.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ERICO/Documents/EdvoraCanvas/app/src/main/res/drawable/ellipse.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ERICO/Documents/EdvoraCanvas/app/src/main/res/drawable/green.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ERICO/Documents/EdvoraCanvas/app/src/main/res/drawable/palette.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ERICO/Documents/EdvoraCanvas/app/src/main/res/drawable/pen.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ERICO/Documents/EdvoraCanvas/app/src/main/res/drawable/rectangle.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ERICO/Documents/EdvoraCanvas/app/src/main/res/drawable/red.xml" value="0.20416666666666666" />
+        <entry key="..\:/Users/ERICO/Documents/EdvoraCanvas/app/src/main/res/layout/activity_main.xml" value="0.22" />
+        <entry key="..\:/Users/ERICO/Documents/EdvoraCanvas/app/src/main/res/layout/button.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/ERICO/Documents/EdvoraCanvas/app/src/main/res/layout/view_canvas.xml" value="0.18802083333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
